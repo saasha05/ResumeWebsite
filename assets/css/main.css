@@ -3670,6 +3670,10 @@ input, select, textarea {
 			}
 
 	}
+	. small {
+		font-size: 100px;
+	}
+
 
 /* Progress bars */
   .progress-bar-text {
