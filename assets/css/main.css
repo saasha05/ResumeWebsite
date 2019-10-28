@@ -2531,7 +2531,7 @@ input, select, textarea {
 		}
 
 		.panel.large {
-			width: 65rem;
+			width: 80rem;
 		}
 
 		.panel.small .span-0-25, .panel.medium .span-0-25, .panel.large .span-0-25 {
